@@ -1,11 +1,16 @@
 {
-  "name": "kdm_temp",
+  "name": "themetrohub",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@material-ui/core": "latest",
+    "@material-ui/icons": "^4.5.1",
     "clsx": "latest",
+    "isomorphic-unfetch": "^3.0.0",
+    "js-cookie": "^2.2.1",
     "next": "latest",
+    "next-cookies": "^2.0.3",
+    "next-images": "^1.2.0",
     "prop-types": "latest",
     "react": "latest",
     "react-dom": "latest"
